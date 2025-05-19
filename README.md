@@ -1,6 +1,6 @@
 <!-- Banner GIF with reduced height -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Banner" height="200"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"width=1000 height = 300>
 </p>
 
 # 💫 About Me:
