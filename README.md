@@ -4,11 +4,13 @@
 </p>
 
 # 💫 About Me:
-I am a passionate full stack developer 
+👋 Hi, I’m Saad
+I’m a  CS student at Memorial University passionate about full-stack development and machine learning. I love building real-world projects, exploring cloud tech, and solving problems through code.
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-bin-dawlat-386162300/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadbindawlat006@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadbindawlat) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbdawlat@mun.ca) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
